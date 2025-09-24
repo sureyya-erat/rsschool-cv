@@ -3,9 +3,9 @@
 # Süreyya Erat
 
 ## Contacts
-- Email: surayyokadirova@icloud.com
-- GitHub: https://github.com/sureyya-erat
-- LinkedIn: https://www.linkedin.com/in/surayyo-kadirova/
+- [Email](surayyokadirova@icloud.com)
+- [GitHub](https://github.com/sureyya-erat)
+- [LinkedIn](https://www.linkedin.com/in/surayyo-kadirova/)
 
 ## About Me
 Goal-oriented MIS student with hands-on experience in ERP and analytics (SAP/1C basics) ...
