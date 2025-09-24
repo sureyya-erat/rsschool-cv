@@ -34,10 +34,22 @@ Goal-oriented MIS student with hands-on experience in ERP and analytics (SAP/1C 
 
 
 ## Code Examples
-public class Kata{
-    public static string EvenOrOdd(int number){
-        return number % 2 == 0 ? "Even" : "Odd";
-    }};
+function countPositivesSumNegatives(input) {
+if (!input || input.length === 0) return [];
+
+  let countPositives = 0;
+  let sumNegatives = 0;
+
+  for (let num of input) {
+    if (num > 0) {
+      countPositives++;
+    } else if (num < 0) {
+      sumNegatives += num;
+    }
+  }
+
+  return [countPositives, sumNegatives];
+}
 
 ## Additional
 - High Honour Student (GPA 3.79/4)
