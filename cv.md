@@ -61,8 +61,8 @@ public class Kata{
   [Link To PDF](https://drive.google.com/file/d/1GjzwtaRYPeEXf4ZOlfaFj_f_DMXblltZ/view)
 
 ## Certificates
-- Low-Code ERP Training for Software Developers (1Ci, 2025)
-- QNB 101 Online Internship Program (QNB Türkiye, 2025)
+- 1Ci Low-Code ERP Training for Software Developers (2025)
+- QNB 101 Online Internship Program (2025)
 - CS50 Intro to Databases with SQL – Harvard Online (2024)  
 - CS50 Understanding Technology – Harvard Online (2023)  
 - Introduction to AI, Robotics & Data – Global AI Hub (2023)  
