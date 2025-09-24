@@ -1,3 +1,7 @@
+---
+title: CV
+permalink: /cv
+---
 # My CV
 # Süreyya Erat
 
