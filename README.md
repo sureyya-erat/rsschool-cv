@@ -1,1 +1,1 @@
-[My CV] (https://sureyya-erat.github.io/rsschool-cv/cv)
+[My CV](https://sureyya-erat.github.io/rsschool-cv/cv)
