@@ -17,6 +17,15 @@ body { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sa
 
 .card { background: #ffffff; padding: 16px; border-radius: 12px; border: 1px solid #eee; }
 
+.sidebar {
+  position: sticky;
+  top: 80px;              /* space under the header */
+  align-self: start;      /* don’t stretch weirdly */
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 /* --- Contact card --- */
 .contact-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
 
